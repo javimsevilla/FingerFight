@@ -1,0 +1,24 @@
+*{
+margin: 0;
+padding: 0;}
+
+html,body {
+  height: 100%;
+}
+
+.gamezone {
+  display: block;
+  width:100%;
+}
+
+#player1{
+  background-color: #f78f8f;
+  border-bottom: 4px solid;
+  height: 50%;
+}
+
+#player2{
+  position: relative;
+  background-color: #0f0;
+  height: 50%;
+}
